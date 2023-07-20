@@ -4958,7 +4958,7 @@ img {
 .event-popup{
   z-index: 9999;
   background-color: #ffffff;
-  margin: 50px;
+  margin-top: 50px;
   width: 450px;
   padding: 30px 40px;
   position: absolute;
@@ -4996,6 +4996,3 @@ img {
   padding: 5px 0;
 }
 
-.event-popup{
-  
-}

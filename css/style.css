@@ -4955,7 +4955,7 @@ img {
 }
 
 
-.event-popup{
+ div.event-popup{
   z-index: 9999;
   background-color: #ffffff;
   transform: translate(-50%,-50%);
@@ -4966,12 +4966,10 @@ img {
   width: 450px;
   padding: 30px 40px;
   position: absolute;
-  /* display: flex;
-  text-align: center; */
-  display: none;
-}
+   display: none;
+} 
 
-.event-popup button{
+div.event-popup button{
   display: block;
   margin: 0 0 20px auto;
   background-color: transparent;
@@ -4983,7 +4981,7 @@ img {
 }
 
 
-.event-popup a{
+div.event-popup a{
   display: block;
   width: 90px;
   position: relative;

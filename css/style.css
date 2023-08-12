@@ -4955,4 +4955,15 @@ img {
 }
 
 
+.department-emergency-team{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  gap: 2rem;
+}
 
+.department-emergency-team img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}

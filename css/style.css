@@ -5554,7 +5554,7 @@ img {
   gap: 2rem;
 }
 
-@media screen and (min-width:1230){
+@media screen and (max-width:700px){
 .department-emergency-team {
    flex-wrap: wrap;
 }
